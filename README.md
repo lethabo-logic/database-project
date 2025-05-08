@@ -28,13 +28,16 @@ This project is a MySQL-based **Clinic Booking System** designed to handle patie
    git clone https://github.com/username/clinic-booking-system.git
    ```
 2. Open MySQL Workbench or CLI, then:
+  ```
    SOURCE path/to/clinic_booking_system.sql;
-3. The database and all required tables will be created.
+  ```
+4. The database and all required tables will be created.
 🖼️ ERD Diagram
 
 Or view online: ERD Link
 
 🗃️ File Structure
+
 clinic-booking-system/
 │
 ├── clinic_booking_system.sql   # Well-commented SQL script with all CREATE TABLE statements
