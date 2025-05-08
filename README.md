@@ -33,6 +33,7 @@ This project is a MySQL-based **Clinic Booking System** designed to handle patie
 🖼️ ERD Diagram
 
 Or view online: ERD Link
+
 🗃️ File Structure
 clinic-booking-system/
 │
