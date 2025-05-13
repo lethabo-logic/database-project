@@ -34,7 +34,7 @@ This project is a MySQL-based **Clinic Booking System** designed to handle patie
 4. The database and all required tables will be created.
 🖼️ ERD Diagram
 
-Or view online: ERD Link
+Or view online: https://app.diagrams.net/?src=about 
 
 🗃️ File Structure
 
